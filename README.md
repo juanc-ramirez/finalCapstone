@@ -1,6 +1,6 @@
 # finalCapstone
 
-# NATURAL LANGUAGE PROCESSING APPLICATIONS
+# NATURAL LANGUAGE PROCESSING FILE 1
 
 This repository contains two files that provide information about different applications of Natural Language Processing (NLP). Each file focuses on a specific use case and describes its context, techniques used, and potential benefits.
 
@@ -24,7 +24,7 @@ By leveraging NLP, the system can process patient responses and extract valuable
 
 ---
 
-# IBM Watson Discovery
+# NATURAL LANGUAGE PROCESSING FILE 2
 
 This file introduces IBM Watson Discovery, an innovative technology that utilizes Natural Language Processing (NLP) to extract insights and knowledge from unstructured data sources. Watson Discovery is a powerful AI-powered platform designed to analyze large volumes of text-based data, such as documents, articles, and web pages.
 
